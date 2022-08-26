@@ -8,9 +8,9 @@ namespace deliverable1
         {
             int loop = 1;
 
-            const int SLICES_IN_SANDWHICH = 2;
-            const int PB_IN_SANDWHICH = 2;
-            const int JELLY_IN_SANDWHICH = 4;
+            const int SLICES_IN_SANDWICH = 2;
+            const int PB_IN_SANDWICH = 2;
+            const int JELLY_IN_SANDWICH = 4;
 
             const int SLICES_IN_LOAF = 28;
             const int PB_IN_JAR = 32;
@@ -21,9 +21,9 @@ namespace deliverable1
                 Console.WriteLine("How many people are we making PB and J sandwiches for? ");
                 int peopleCount = int.Parse(Console.ReadLine());
 
-                int slicesOfBread = SLICES_IN_SANDWHICH * peopleCount;
-                int tbpsOfPeanutButter = PB_IN_SANDWHICH * peopleCount;
-                int tspOfJelly = JELLY_IN_SANDWHICH * peopleCount;
+                int slicesOfBread = SLICES_IN_SANDWICH * peopleCount;
+                int tbpsOfPeanutButter = PB_IN_SANDWICH * peopleCount;
+                int tspOfJelly = JELLY_IN_SANDWICH * peopleCount;
 
                 double loavesNeeded = Math.Ceiling((double)slicesOfBread/SLICES_IN_LOAF);
                 double pbNeeded = Math.Ceiling((double)tbpsOfPeanutButter/PB_IN_JAR);
