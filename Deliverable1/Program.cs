@@ -42,7 +42,7 @@ namespace deliverable1
                 Console.WriteLine($"{jellyNeeded} jars of jelly \n \n");
 
                 Console.WriteLine("Would you like to restart? Enter 'yes' or 'y' to continue, or enter any other key to exit:");
-                string restartInput = Console.ReadLine();
+                string? restartInput = Console.ReadLine();
                 if (restartInput == "yes" || restartInput == "y")
                 {
                     Console.Clear();
