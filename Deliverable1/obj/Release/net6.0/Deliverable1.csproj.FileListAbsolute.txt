@@ -1,0 +1,15 @@
+/Users/csteward/Projects/Deliverable1/Deliverable1/bin/Release/net6.0/Deliverable1
+/Users/csteward/Projects/Deliverable1/Deliverable1/bin/Release/net6.0/Deliverable1.deps.json
+/Users/csteward/Projects/Deliverable1/Deliverable1/bin/Release/net6.0/Deliverable1.runtimeconfig.json
+/Users/csteward/Projects/Deliverable1/Deliverable1/bin/Release/net6.0/Deliverable1.dll
+/Users/csteward/Projects/Deliverable1/Deliverable1/bin/Release/net6.0/Deliverable1.pdb
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/Deliverable1.csproj.AssemblyReference.cache
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/Deliverable1.AssemblyInfoInputs.cache
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/Deliverable1.AssemblyInfo.cs
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/Deliverable1.dll
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/refint/Deliverable1.dll
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/Deliverable1.pdb
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/Deliverable1.genruntimeconfig.cache
+/Users/csteward/Projects/Deliverable1/Deliverable1/obj/Release/net6.0/ref/Deliverable1.dll
