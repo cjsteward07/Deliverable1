@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/csteward/Projects/Deliverable1/Deliverable1/Deliverable1.csproj": {}
+    "/home/colin/Documents/git/grandcircus/lab1/Deliverable1/Deliverable1/Deliverable1.csproj": {}
   },
   "projects": {
-    "/Users/csteward/Projects/Deliverable1/Deliverable1/Deliverable1.csproj": {
+    "/home/colin/Documents/git/grandcircus/lab1/Deliverable1/Deliverable1/Deliverable1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/csteward/Projects/Deliverable1/Deliverable1/Deliverable1.csproj",
+        "projectUniqueName": "/home/colin/Documents/git/grandcircus/lab1/Deliverable1/Deliverable1/Deliverable1.csproj",
         "projectName": "Deliverable1",
-        "projectPath": "/Users/csteward/Projects/Deliverable1/Deliverable1/Deliverable1.csproj",
-        "packagesPath": "/Users/csteward/.nuget/packages/",
-        "outputPath": "/Users/csteward/Projects/Deliverable1/Deliverable1/obj/",
+        "projectPath": "/home/colin/Documents/git/grandcircus/lab1/Deliverable1/Deliverable1/Deliverable1.csproj",
+        "packagesPath": "/home/colin/.nuget/packages/",
+        "outputPath": "/home/colin/Documents/git/grandcircus/lab1/Deliverable1/Deliverable1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/csteward/.nuget/NuGet/NuGet.Config"
+          "/home/colin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
         }
       }
     }
